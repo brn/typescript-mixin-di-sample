@@ -2,6 +2,7 @@
 
 Sample implementaions fro Dependency Injection of typescript > 2.2.0
 
+[Blog post here (Written in Japanese)](http://brn-log.hatenablog.com/entry/2017/03/03/121130)
 
 ### Public Dependency Pattern
 
